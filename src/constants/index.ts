@@ -9,6 +9,18 @@ export const TARGET_URL_LIST: CommonConstantItem[] = [
     name: 'Slack message link',
     value: 'https://marketkurly.slack.com/archives/C02SPPUDNMU/p1690419601533099',
   },
+  {
+    name: 'Coupang Product Detail',
+    value: 'https://link.coupang.com/a/46fSp',
+  },
+  {
+    name: '11St Product Detail',
+    value: 'http://www.11st.co.kr/products/5840312046/share',
+  },
+  {
+    name: '무신사',
+    value: 'https://musinsaapp.page.link/QAxENMJZgMdZyZs86',
+  },
 ];
 
 export const ANDROID_USER_AGENT_LIST: CommonConstantItem[] = [
