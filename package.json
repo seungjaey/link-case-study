@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@fxts/core": "^0.18.0",
+    "axios": "^1.4.0",
     "lodash": "^4.17.21",
     "puppeteer": "^20.9.0"
   },
